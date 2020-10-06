@@ -4,13 +4,9 @@
 
 int main(){
 
- 
-
     int time, av_value;
 
     float fuel;
-
- 
 
      scanf("%d %d", &time, &av_value);
 
@@ -19,7 +15,5 @@ int main(){
      printf("%.3f\n", fuel);
 
      return 0;
-
- 
 
 }
